@@ -37,9 +37,6 @@ export default createGlobalStyle`
   button:hover, a:hover {
     cursor: pointer;
   };
-
-
-
   .fade-enter {
     position: absolute;
     top: 0;
